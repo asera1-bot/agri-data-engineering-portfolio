@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment
+.env
+.env.*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local data
+data/
+datasets/
+
+# Office files
+*.xlsx
+*.xls
+*.ods
+*.pptx
+*.pdf
+
+# Secrets / DB
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+
+
